@@ -1,0 +1,51 @@
+
+.section {
+    padding: 25px 0;
+  }
+  
+.box {
+    background-color: #fff;
+    border:1px solid #ccc;
+    padding:15px;
+    box-sizing: border-box;
+    margin:10px 0 25px 0;
+}
+
+.input-control {
+    width:100%;
+    padding:10px;
+    margin-bottom: 15px;
+    box-sizing: border-box;
+}
+
+.btn {
+    padding:8px 15px;
+    background-color: aqua;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.header {
+    width: 100%;
+}
+
+.kepada {
+    width: 30%;
+    font-size: small;
+    color: black;
+}
+
+.pesan {
+    width: 50%;
+    font-size: small;
+    color: brown;
+}
+
+.footm {
+    width: 100%;
+    font-size: small;
+    color: coral;
+    position: relative;
+    margin-left: 20px;
+}
